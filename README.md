@@ -28,7 +28,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **PulseLite** | Real-time news intelligence platform built using Python, Kafka, Streamlit and sentiment analysis. |
+| PulseLite | Real-time Hacker News intelligence pipeline — Kafka, Avro, sentiment analysis, and anomaly detection. |
 | **Student Performance Tracker** | Dashboard for tracking student performance using FastAPI, MongoDB and Plotly. |
 | **Local AI Agent with RAG** | Retrieval-Augmented Generation project using Python and local LLMs. |
 
